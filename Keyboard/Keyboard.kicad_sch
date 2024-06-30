@@ -1,0 +1,57 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "e20b4bcd-050f-4f09-93c0-c3407b1bfd64")
+	(paper "A4")
+	(title_block
+		(title "Keyboard")
+		(date "2024-06-29")
+		(rev "v1.2")
+		(company "Sebastian Fromm")
+	)
+	(lib_symbols)
+	(sheet
+		(at 242.57 100.33)
+		(size 19.05 10.16)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5fa2ba01-f6ff-4bb3-a157-f552b5714e7d")
+		(property "Sheetname" "KeyMatrix"
+			(at 242.57 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "key_matrix.kicad_sch"
+			(at 242.57 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Keyboard"
+				(path "/e20b4bcd-050f-4f09-93c0-c3407b1bfd64"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
